@@ -1,0 +1,21 @@
+.jumbotron{ 
+  background: url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png) 
+   no-repeat center center fixed ;
+  background-size: cover;
+  height: 600px ;
+}
+
+.headerFont{
+  font-family: 'Lobster', cursive;
+  color: aliceblue;
+  align-items: center;
+  text-align: center;
+  padding-top: 85px;
+}
+
+.headerFont2{
+  color: aliceblue;
+  align-items: center;
+  text-align: center;
+  padding-top: 5px;
+}
